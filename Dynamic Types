@@ -1,0 +1,6 @@
+
+name = "Mikhail"
+age = 23
+new_age = (age + 1)
+bool("is_student")
+print (name, age, new_age, bool("is_student"))
